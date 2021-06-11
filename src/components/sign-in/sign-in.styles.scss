@@ -12,3 +12,14 @@
     justify-content: space-between;
   }
 }
+
+@media only screen and (max-width: 700px) {
+  .sign-in {
+    width: 300px;
+    
+    .buttons {
+      display: block;
+      margin: 20px auto;
+    }
+  }
+}
