@@ -1,0 +1,20 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  margin: auto 20px;
+
+  .title {
+    font-size: 38px;
+    margin: 0 auto 30px;
+  }
+
+  .description {
+    text-align: center;
+    font-size: 22px;
+    margin: 40px auto;
+  }
+
+  .mail {
+    color: blue;
+  }
+}
